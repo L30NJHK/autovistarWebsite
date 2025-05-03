@@ -1,0 +1,6 @@
+.homepage-container {
+  background-color: #665c61;
+  height: 91vh;
+  display: flex;
+  flex-direction: column;
+}

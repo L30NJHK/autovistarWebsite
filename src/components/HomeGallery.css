@@ -1,0 +1,18 @@
+.homegallery-container {
+  background-color: rgb(63, 66, 70);
+  height: 25vh;
+  display: flex;
+  flex-direction: row;
+}
+
+.homegallery-image {
+  padding: 10px 5px;
+  display: flex;
+  align-items: center;
+}
+
+.homegallery-car-image {
+  height: 150px;
+  max-width: auto;
+  border-radius: 0.75rem;
+}

@@ -1,0 +1,9 @@
+.savedcarspage-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  background-color: rgb(63, 66, 70);
+  padding: 20px;
+  height: 100vh;
+  justify-content: center;
+}

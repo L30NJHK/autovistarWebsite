@@ -1,0 +1,78 @@
+.cardetailpage-container {
+  background-color: rgb(30 41 59);
+  color: antiquewhite;
+  height: 100vh;
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+  flex: 3;
+}
+
+.carousel-container {
+  flex: 1.75;
+  width: auto;
+  height: 100%;
+}
+
+.image-carousel {
+  height: auto;
+  max-width: 100%;
+  flex: 2;
+  padding-right: 50px;
+}
+
+.cardetail-image-container {
+  height: 95%;
+  width: 95%;
+}
+
+.car-image {
+  border-radius: 0.75rem;
+  max-width: 100%;
+  height: auto;
+}
+.cardetail-text {
+  flex: 1.25;
+  height: auto;
+}
+
+.cardetail-title {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 1rem;
+  font-size: 1.875rem;
+  line-height: 2.25rem;
+  font-weight: 700;
+}
+
+.car-description {
+  padding: 20px 0px;
+  color: rgb(223, 211, 197);
+}
+
+.cardetail-price {
+  color: antiquewhite;
+  font-size: 1.875rem;
+  margin-bottom: 20px;
+}
+
+.qr-code {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.qr-code-text {
+  margin-top: 20px;
+  font-weight: bold;
+}
+
+.fav-button {
+  background: none;
+  color: inherit;
+  border: none;
+  padding: 0;
+  font: inherit;
+  cursor: pointer;
+  outline: inherit;
+}

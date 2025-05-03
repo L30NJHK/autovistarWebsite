@@ -1,0 +1,126 @@
+.carspage-container {
+  display: flex;
+  flex-direction: row;
+  background-color: rgb(63, 66, 70);
+  height: auto;
+  min-height: 100vh;
+}
+.searchresults-div {
+  background-color: rgb(30 41 59);
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  /* width: 300%; */
+  /* width: 40%; */
+  /* margin-right: 20px; */
+  /* border-radius: 0.75rem; */
+  /* height: 150vh; */
+}
+.filters-div {
+  /* background-color: #665c61; */
+  background-color: rgb(30 41 59);
+  display: flex;
+  right: 0;
+  flex-direction: column;
+  height: auto;
+  width: 100%;
+  /* width: 45%; */
+  /* border-radius: 0.75rem; */
+  /* margin: auto; */
+  color: white;
+  /* position: -webkit-sticky;
+  position: sticky; */
+  top: 20px;
+}
+.filters-text {
+  /* background-color: #665c61; */
+  background-color: rgb(30 41 59);
+
+  /* height: 65vh; */
+  width: 100%;
+  /* width: 45%; */
+  /* border-radius: 0.75rem; */
+  /* margin: auto; */
+  color: white;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 20px;
+}
+.filter-title {
+  color: antiquewhite;
+  font-size: 20px;
+  padding: 20px;
+  border-bottom: 1px solid grey;
+  text-align: center;
+}
+.filter-form {
+  color: antiquewhite;
+  margin: 10px;
+  text-align: center;
+}
+.manufacturer-select {
+  width: 80%;
+  min-width: 15ch;
+  max-width: 30ch;
+
+  border: 1px solid grey;
+  border-radius: 0.25em;
+  margin: 10px;
+  padding: 0.25em 0.5em;
+  font-size: 1.25rem;
+  cursor: pointer;
+  line-height: 1.1;
+  color: antiquewhite;
+  /* background-color: #1e293b; */
+  background-color: #1c1f29;
+  /* display: flex;
+    flex-direction: row; */
+}
+
+.model-select {
+  width: 100%;
+  min-width: 15ch;
+  max-width: 30ch;
+  border: 1px solid grey;
+  border-radius: 0.25em;
+  margin: 10px;
+  padding: 0.25em 0.5em;
+  font-size: 1.25rem;
+  cursor: pointer;
+  line-height: 1.1;
+  color: antiquewhite;
+  /* background-color: #1e293b; */
+  background-color: #1c1f29;
+  /* display: flex;
+    flex-direction: row; */
+}
+
+.filter-years {
+  display: flex;
+  flex-direction: row;
+}
+
+.filter-transmission {
+  display: flex;
+  flex-direction: row;
+  margin-top: 10px;
+  justify-content: center;
+  color: grey;
+}
+
+.filter-radio {
+  margin: 0px 10px;
+}
+
+.button-container {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.search-button {
+  background-color: #1c1f29;
+  color: antiquewhite;
+  font-size: 20px;
+  padding: 8px 12px;
+  border-radius: 8px;
+}

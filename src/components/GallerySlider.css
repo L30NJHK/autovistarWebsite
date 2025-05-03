@@ -1,0 +1,14 @@
+.homepage-slider {
+  background-color: #433c3f;
+  height: 25vh;
+  width: auto;
+  color: white;
+  display: flex;
+  flex-direction: row;
+}
+.image-carousel {
+  height: auto;
+  max-width: 100%;
+
+  padding-right: 50px;
+}

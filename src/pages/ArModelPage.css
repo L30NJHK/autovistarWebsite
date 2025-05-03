@@ -1,0 +1,16 @@
+.armodelpage-container {
+  height: 100vh;
+  margin: 20px;
+}
+
+.ar-button {
+  background-color: darkslategrey;
+  color: white;
+  padding: 5px;
+  font-size: 26px;
+  border-radius: 8px;
+  border: none;
+  position: absolute;
+  bottom: 0px;
+  right: 16px;
+}
