@@ -1,4 +1,6 @@
 # AutoVistAR Readme
+Github Link - [https://github.com/L30NJHK/autovistarWebsite]([url](https://github.com/L30NJHK/autovistarWebsite))
+
 ## Install instructions:
 - Git clone this repository 
 - Use 'npm install' to install dependencies in a terminal
