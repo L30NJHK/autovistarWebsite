@@ -16,5 +16,5 @@ This is needed instead of localhost in order to utilise the AR features via a mo
 - 'npm run server' - to run the server. Endpoint can be viewed at localhost:8000/cars
 - 'npm run dev' - to run the client. Can be viewed via IP or localhost 3000
 
-# Miscellaneous
+## Miscellaneous
 - 'npm run test' - to view test results
